@@ -223,6 +223,7 @@ defaults:
       path: ""
       type: publications
     values:
+      avatar: "profile.png"
       layout: single
       author_profile: true
       share: true
